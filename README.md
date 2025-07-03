@@ -1,4 +1,4 @@
-# SUBMIT REPORT TO HackenProof
+# Submit report to HackenProof
 
 HackenProof is a crowdsourced security platform for bug bounties, audits, security contests, and live-hacking events. Our platform is trusted by top projects such as Dfinity, Aptos, Polygon, Near, Aurora, Sui, MetaMask, 1inch, TON, Cronos, OKX, MyEtherWallet, Status, and over 200 web3 projects, safeguarding more than $28 billion in user funds daily.
 
